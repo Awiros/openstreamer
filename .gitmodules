@@ -1,0 +1,6 @@
+[submodule "streameye"]
+	path = streameye
+	url = https://github.com/ccrisan/streameye.git
+[submodule "src/streameye"]
+	path = src/streameye
+	url = https://github.com/Awiros/streameye.git
